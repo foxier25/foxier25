@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm I'm Michael Lee</h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.blackcater.win/" target="_blank">Michael Lee</a></h1>
 <h3 align="center">Senior Solidity Smart Contract developer</h3>
+
+
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
